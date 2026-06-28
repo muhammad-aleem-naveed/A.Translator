@@ -1,26 +1,35 @@
-# A.Translator by Aleem.Developer
+<div align="center">
 
-> 👋 Developed by [**Aleem.Developer**](https://www.linkedin.com/in/aleem-developer) — also known as **Muhammad Aleem**, a passionate Python programmer, prompt engineer, and data science student at the **University of Central Punjab (UCP)**.  
-> I specialize in building AI-powered desktop tools, and **A.Translator** is one of my flagship projects — built from scratch using Python and real-world design principles.
+# 🌐 A.Translator
+### *by Muhammad Aleem Naveed*
+
+**A Python-powered desktop app that translates entire PDF files into 10+ languages — with formatting that actually survives the trip.**
+
+</div>
+
+> 👋 Developed by **Muhammad Aleem Naveed** — an AI Solutions Developer and Data Science student at the **University of Central Punjab (UCP)**, also known online as [**Aleem.Developer**](https://www.linkedin.com/in/aleem-developer).
+> I build by directing AI coding tools through design, architecture, and debugging — and **A.Translator** is one of my flagship projects, engineered solo and packaged in just 2 days using zero paid resources.
 
 ---
 
-**A.Translator** is a powerful Python-based desktop application that translates entire PDF files into **100+ languages** using the Google Translate API.  
-It features a modern GUI, animated splash screen, real-time translation progress bar, and smartly formatted DOCX export.
+## 📖 Overview
 
-This is a real, production-level tool built with multithreading support, RTL formatting for languages like Urdu and Arabic, and bundled as a `.exe` with custom branding.
+**A.Translator** translates entire PDF documents across **10+ languages** while fully preserving the original formatting and layout. It ships with a modern GUI, an animated splash screen, a real-time translation progress bar, and clean DOCX export.
+
+This was built and packaged as a **standalone Windows executable in 2 days, solo, using exclusively free and open resources** — no paid APIs or libraries. Throughout development, AI coding tools were directed end-to-end to design the architecture, write the code, and debug the application. The working build was demonstrated to a course instructor and classmates as a functional proof-of-concept.
 
 ---
 
 ## 🌟 Key Features
 
-- 🌐 Translate entire PDFs into 100+ languages
-- 🖥️ Professional GUI with splash screen and animated progress bar
-- 📄 Export results as clean, formatted DOCX files
-- 🕌 Right-to-left support for Urdu, Arabic, Hebrew (RTL)
-- ⚡ Fast and multithreaded performance (great for large files)
-- 📦 Bundled `.exe` with installer and custom icon
-- 🧠 Built using Python, pdfplumber, ttkbootstrap, docx, and deep_translator
+| Feature | Details |
+|---|---|
+| 🌐 **Wide Language Support** | Translate entire PDFs into 10+ languages |
+| 🖥️ **Polished GUI** | Splash screen + animated progress bar |
+| 📄 **Clean Export** | Formatted, readable DOCX output |
+| 🕌 **RTL Support** | Right-to-left rendering for Urdu, Arabic, Hebrew |
+| ⚡ **Multithreaded** | Stays responsive even on large files |
+| 📦 **Standalone Build** | Packaged `.exe` with installer and custom icon |
 
 ---
 
@@ -30,41 +39,43 @@ This is a real, production-level tool built with multithreading support, RTL for
 
 ---
 
-## 🚀 Why I Built This
+## 🧠 Why I Built This
 
-I’m **Muhammad Aleem**, known online as **Aleem.Developer** — a student, Python developer, and future AI founder.  
-My goal is to build powerful digital tools that simplify real-world problems — and **A.Translator** is the first step in that journey.
+I'm **Muhammad Aleem Naveed**, also known online as **Aleem.Developer** — a self-taught builder who ships real software by directing AI coding tools toward the right task, end-to-end. My goal is to build digital tools that solve real problems, and **A.Translator** is the first step.
 
-This project combines my passion for:
-- 🔍 Natural language processing
-- 🧠 Prompt engineering
+It brings together a few things I care about:
+
+- 🔍 Practical, real-world problem solving
+- 🧠 Prompt engineering across multiple AI platforms
 - 🎨 GUI design
-- 🧑‍💻 Making AI feel like an assistant
+- 🤖 Directing AI tools to design, build, and debug working applications — not just generate snippets
 
-Inspired by the greats who started in garages, I’m building my career — one project at a time.
+I also write about how I build — I authored a published guide on practical AI use, itself an experiment in AI-driven content production. Every great product started somewhere small — this is mine, built one project at a time.
 
 ---
 
-## 👨‍💻 Technologies Used
+## 👨‍💻 Built With
 
-- Python
-- pdfplumber
-- deep_translator
-- ttkbootstrap
-- python-docx
-- threading
-- PyInstaller
+- **Python** — core language
+- **pdfplumber** — PDF text extraction
+- **deep_translator** — translation engine wrapper
+- **ttkbootstrap** — modern GUI styling
+- **python-docx** — DOCX generation
+- **threading** — multithreaded performance
+- **PyInstaller** — `.exe` packaging
 
 ---
 
 ## 📥 Download
 
-Executable `.exe` version available on request or soon via GitHub Releases.  
-📩 Contact: [LinkedIn](https://linkedin.com/in/aleem-developer) | Email: aleem.developer@gmail.com
+A standalone `.exe` is available on request, or coming soon via GitHub Releases.
+
+📩 **Get in touch:** [LinkedIn](https://linkedin.com/in/aleem-developer) · **Email:** aleem.developer26@gmail.com
 
 ---
 
 ## 🔖 License
 
-Licensed under the MIT License — free for personal and educational use.  
-All rights reserved © 2025 — Developed with 💻 by **Aleem.Developer**
+Licensed under the **MIT License** — free to use for personal and educational purposes.
+
+© 2025 **Muhammad Aleem Naveed** (Aleem.Developer). All rights reserved.
