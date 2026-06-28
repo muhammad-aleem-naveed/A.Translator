@@ -7,7 +7,7 @@
 
 </div>
 
-> 👋 Developed by **Muhammad Aleem Naveed** — an AI Solutions Developer and Data Science student at the **University of Central Punjab (UCP)**, also known online as [**Aleem.Developer**](https://www.linkedin.com/in/aleem-developer).
+> 👋 Developed by **Muhammad Aleem Naveed** — an AI Solutions Developer and Data Science student at the **University of Central Punjab (UCP)**, also known online as **Aleem.Developer**.
 > I build by directing AI coding tools through design, architecture, and debugging — and **A.Translator** is one of my flagship projects, engineered solo and packaged in just 2 days using zero paid resources.
 
 ---
@@ -70,7 +70,7 @@ I also write about how I build — I authored a published guide on practical AI 
 
 A standalone `.exe` is available on request, or coming soon via GitHub Releases.
 
-📩 **Get in touch:** [LinkedIn](https://linkedin.com/in/aleem-developer) · **Email:** aleem.developer26@gmail.com
+📩 **Get in touch:** [LinkedIn](https://www.linkedin.com/in/muhammad-aleem-naveed) · **Email:** aleem.developer26@gmail.com
 
 ---
 
