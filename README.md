@@ -33,12 +33,6 @@ This was built and packaged as a **standalone Windows executable in 2 days, solo
 
 ---
 
-## 📸 Screenshot
-
-![A.Translator Screenshot](A.Translator.PNG)
-
----
-
 ## 🧠 Why I Built This
 
 I'm **Muhammad Aleem Naveed**, also known online as **Aleem.Developer** — a self-taught builder who ships real software by directing AI coding tools toward the right task, end-to-end. My goal is to build digital tools that solve real problems, and **A.Translator** is the first step.
